@@ -1,4 +1,10 @@
-## Hi there 👋
+## **PULL REQUEST: My Story ヅ**
+
+Heyy!! Myself Frezha, a second-year IT engineering student who’s genuinely curious about technology and how things work behind the scenes.
+I enjoy learning by doing — mini projects, hackathons, and real-world problem solving help me understand concepts better than just theory.
+
+Right now, my main focus is on building hands-on projects in cloud computing and strengthening my overall technical foundation.
+I believe consistency and curiosity matter more than perfection, and I’m always open to learning, improving, and collaborating with others 🚀
 
 <!--
 **Frezha-Angeline/Frezha-Angeline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
