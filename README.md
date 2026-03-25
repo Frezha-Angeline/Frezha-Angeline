@@ -1,4 +1,4 @@
-## **PULL REQUEST: My Story ヅ**
+## **PULL REQUEST: My Story :)**
 
 Heyy!! Myself Frezha, a second-year IT engineering student who’s genuinely curious about technology and how things work behind the scenes.
 I enjoy learning by doing — mini projects, hackathons, and real-world problem solving help me understand concepts better than just theory.
