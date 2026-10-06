@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:8b5cf6&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:8b5cf6&height=220&section=header&text=Frezha-Angeline A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=60&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full+Stack+Developer;AI+%2F+ML+%7C+Computer+Vision+%7C+IoT;Building+secure%2C+scalable+products;Computer+Science+Undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Cloud+Engineer+%7C+Full+Stack+Developer;AI+%2F+ML+%7C+Computer+Vision+%7C+IoT;Building+secure%2C+scalable+products;Information+Technology+Undergraduate" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.E./B.Tech](https://img.shields.io/badge/B.E.%20%2F%20B.Tech-Computer%20Science-6366f1?style=for-the-badge&logo=academia&logoColor=white)
-![University](https://img.shields.io/badge/University-YOUR%20COLLEGE-7c3aed?style=for-the-badge)
+![B.E./B.Tech](https://img.shields.io/badge/B.E.%20%2F%20B.Tech-Information-Technology-6366f1?style=for-the-badge&logo=academia&logoColor=white)
+![University](https://img.shields.io/badge/University-Sri-Sairam-Institute-Of-Technology-,-Chennai-7c3aed?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
