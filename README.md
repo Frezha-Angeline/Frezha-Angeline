@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:8b5cf6&height=220&section=header&text=Frezha%20Angeline A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:8b5cf6&height=240&section=header&text=Frezha%20Angeline%20A&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=60&descSize=20&descColor=e0e7ff" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Cloud+Engineer+%7C+Full+Stack+Developer;AI+%2F+ML+%7C+Computer+Vision+%7C+IoT;Building+secure%2C+scalable+products;Information+Technology+Undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Cloud+Engineer+%7C+Full+Stack+Developer;AI+%2F+ML+%7C+Computer+Vision+%7C+IoT;Building+secure%2C+scalable+products;Information+Technology+Undergraduate" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.E./B.Tech](https://img.shields.io/badge/B.E.%20%2F%20B.Tech%20Information%20Technology%206366f1?style=for-the-badge&logo=academia&logoColor=white)
-![University](https://img.shields.io/badge/University%20Sri%20Sairam%20Institute%20Of%20Technology%20,%20Chennai-7c3aed?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Degree](https://img.shields.io/badge/Degree-B.Tech%20Information%20Technology-6366f1?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/University-Sri%20Sairam%20Institute%20of%20Technology-7c3aed?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/frezha-angeline-a-79361a327/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frezha-angeline-a-79361a327/)
 [![Email](https://img.shields.io/badge/Email-Contact-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frezhaangel09@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-312e81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frezha-Angeline)
 
@@ -27,9 +27,11 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## About
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=About" alt="About" />
+</div>
 
 I'm a software engineer focused on building reliable, scalable and secure products end to end. My work spans full stack web development, applied AI/ML, computer vision and IoT, and I care as much about the product problem as the code that solves it.
 
@@ -40,9 +42,11 @@ I'm a software engineer focused on building reliable, scalable and secure produc
 
 **Open To:** Software Engineering Internships · Cloud Engineering Roles · Full Stack Roles · Hackathons · Open Source Collaboration
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Tech+Stack" alt="Tech Stack" />
+</div>
 
 **Languages**
 
@@ -68,9 +72,11 @@ I'm a software engineer focused on building reliable, scalable and secure produc
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vscode,postman,arduino&theme=dark" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## AI / ML Expertise
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=AI+%2F+ML+Expertise" alt="AI / ML Expertise" />
+</div>
 
 | Domain | Proficiency | Details |
 |:--|:--|:--|
@@ -80,9 +86,11 @@ I'm a software engineer focused on building reliable, scalable and secure produc
 | Geospatial AI | ![Intermediate](https://img.shields.io/badge/-Intermediate-6366f1?style=flat-square) | GIS data processing, remote sensing, automated assessment systems |
 | Edge AI & IoT | ![Intermediate](https://img.shields.io/badge/-Intermediate-6366f1?style=flat-square) | ESP32, sensor integration, device-to-web data pipelines |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Featured Projects
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Featured+Projects" alt="Featured Projects" />
+</div>
 
 <details open>
 <summary><b>Shadow Login: Visual Phishing Detection Extension</b></summary>
@@ -97,7 +105,7 @@ A browser extension that detects phishing websites by comparing the visual appea
 | **Performance** | Embedding-based similarity matching against known legitimate pages |
 | **Security** | Targets credential-harvesting pages that imitate trusted brands |
 | **Impact** | Protects users at the moment of login, before credentials are entered |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/shadow-login) |
+| **Repository** | [View on GitHub](https://github.com/Frezha-Angeline/shadow-login) |
 
 Instead of relying on blocklists, Shadow Login treats phishing as a visual similarity problem and flags pages that look like a trusted login screen but are served from the wrong origin.
 
@@ -116,7 +124,7 @@ A hackathon project that estimates a person's digital carbon footprint from emai
 | **Performance** | Aggregated estimation from API metadata and a self-reported streaming quiz |
 | **Security** | OAuth-based, scoped access to user data |
 | **Impact** | Makes invisible digital emissions measurable and understandable |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/greenprint) |
+| **Repository** | [View on GitHub](https://github.com/Frezha-Angeline/greenprint) |
 
 GreenPrint combines API-derived signals with self-reported inputs to produce a single, readable footprint estimate.
 
@@ -135,7 +143,7 @@ An academic engineering project that automates property tax assessment using GIS
 | **Performance** | Automated feature extraction from satellite and geospatial data |
 | **Security** | Structured handling of property and assessment records |
 | **Impact** | Reduces manual survey effort and subjective assessment variance |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/finnest) |
+| **Repository** | [View on GitHub](https://github.com/Frezha-Angeline/finnest) |
 
 The system combines remote-sensing imagery with machine learning to estimate property attributes and feed them into a transparent assessment pipeline.
 
@@ -154,7 +162,7 @@ An ESP32-based hardware prototype that reads RFID tags, captures GPS location, s
 | **Performance** | Real-time tag scan, location capture, and instant on-device feedback |
 | **Security** | Tag-based identification with clear accept/reject signalling |
 | **Impact** | End-to-end IoT flow from hardware event to web display |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/esp32-rfid-gps) |
+| **Repository** | [View on GitHub](https://github.com/Frezha-Angeline/esp32-rfid-gps) |
 
 The device bridges embedded hardware and a web interface, showing how physical events can be surfaced in a live dashboard.
 
@@ -173,15 +181,17 @@ A personal React web app for structured Java and placement preparation, with a d
 | **Performance** | Fully client-side, instant load, no backend dependency |
 | **Security** | Data stays local to the user's browser |
 | **Impact** | Turns scattered placement prep into a trackable daily routine |
-| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/java-placement-companion) |
+| **Repository** | [View on GitHub](https://github.com/Frezha-Angeline/java-placement-companion) |
 
 Built around how I actually prepare: a roadmap of topics, a daily diary, and a tracker that shows where I'm weak in aptitude.
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Experience
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Experience" alt="Experience" />
+</div>
 
 ### Web Developer Intern
 **PITECHPEDIA (OPC) Private Limited** · Remote
@@ -197,24 +207,28 @@ Contributed to web development tasks as part of an online internship, working on
 
 `HTML` `CSS` `JavaScript` `React` `Git` `Responsive Design`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Achievements
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Achievements" alt="Achievements" />
+</div>
 
 <div align="center">
 
 | Recognition | Details |
 |:--|:--|
-| **Pitch Evaluator** | Evaluated startup pitches against structured rubrics at Build2gether & Won 6th place with a total of 1000 participants |
+| **Build2gether** | Evaluated startup pitches against structured rubrics; placed 6th among 1000 participants |
+| **DevArena** | 2nd Runner Up at a National Level 24-hour Hackathon held at Easwari Engineering College |
 | **Hackathon Builder** | Built AgriZen, GreenPrint and Shadow Login in competitive hackathon settings |
 | **Innovation Competitions** | Active participant in engineering and innovation competitions |
-| **Add Your Achievement** | Won 2nd Runner Up in DevArena, a National Level 24-hour Hackathon held at Easwari Engineering College |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Certifications
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Certifications" alt="Certifications" />
+</div>
 
 **AWS**
 
@@ -232,9 +246,11 @@ Contributed to web development tasks as part of an online internship, working on
 
 ![Cisco](https://img.shields.io/badge/Cisco-Add%20Certification-4f46e5?style=for-the-badge&logo=cisco&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Coding Profiles
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Coding+Profiles" alt="Coding Profiles" />
+</div>
 
 <div align="center">
 
@@ -245,54 +261,64 @@ Contributed to web development tasks as part of an online internship, working on
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## GitHub Analytics
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=GitHub+Analytics" alt="GitHub Analytics" />
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c4b5fd&border_color=312e81&count_private=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0d1117&title_color=8b5cf6&text_color=c4b5fd&border_color=312e81&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Frezha-Angeline&show_icons=true&hide_border=false&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c4b5fd&border_color=312e81&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frezha-Angeline&layout=compact&bg_color=0d1117&title_color=8b5cf6&text_color=c4b5fd&border_color=312e81&langs_count=8" height="180" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA&stroke=312E81&border=312E81" />
+<img src="https://streak-stats.demolab.com/?user=Frezha-Angeline&theme=dark&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA&stroke=312E81&border=312E81" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## GitHub Trophies
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=GitHub+Trophies" alt="GitHub Trophies" />
+</div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frezha-Angeline&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Contribution Activity
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Contribution+Activity" alt="Contribution Activity" />
+</div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=6366f1&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&title_color=8b5cf6)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Frezha-Angeline&bg_color=0d1117&color=a78bfa&line=6366f1&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&title_color=8b5cf6)](https://github.com/Frezha-Angeline)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Contribution Snake
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Contribution+Snake" alt="Contribution Snake" />
+</div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Frezha-Angeline/Frezha-Angeline/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Current Focus
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Current+Focus" alt="Current Focus" />
+</div>
 
 ```yaml
 Learning:
@@ -309,29 +335,29 @@ Exploring:
   - Geospatial AI
 Open To:
   - Software Engineering Internships
-  - Full Stack / AI-ML Roles
+  - Cloud Engineering Roles
   - Hackathons and Open Source Collaboration
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:6366f1,100:8b5cf6&height=3" width="100%" />
 
-## Connect
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=60000&repeat=false&color=A78BFA&center=true&vCenter=true&width=500&height=45&lines=Connect" alt="Connect" />
+</div>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-YOUR__EMAIL-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frezhaangel09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frezha-angeline-a-79361a327/?isSelfProfile=true)
+[![Gmail](https://img.shields.io/badge/Gmail-frezhaangel09%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frezhaangel09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frezha-angeline-a-79361a327/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-312e81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frezha-Angeline)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 </div>
 
----
-
 <div align="center">
 
-*Build things that work, then make them better.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=C4B5FD&center=true&vCenter=true&width=600&height=40&lines=Build+things+that+work%2C+then+make+them+better." alt="Quote" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:4c1d95&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:4c1d95&height=160&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%" />
 
 </div>
